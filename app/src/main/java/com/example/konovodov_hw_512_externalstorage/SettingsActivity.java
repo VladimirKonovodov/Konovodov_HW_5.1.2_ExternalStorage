@@ -67,7 +67,7 @@ public class SettingsActivity extends AppCompatActivity {
 
             ImageView imageView = findViewById(R.id.imVSettingsBackground);
             Bitmap bitmap = BitmapFactory.decodeFile(file.getAbsolutePath());
-            if (bitmap!=null) {
+            if (bitmap != null) {
                 imageView.setImageBitmap(bitmap);
 
                 Intent intent = new Intent(this, MainActivity.class);

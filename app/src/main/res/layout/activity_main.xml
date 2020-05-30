@@ -8,7 +8,6 @@
     tools:context=".MainActivity">
 
 
-
     <ImageView
         android:id="@+id/imageViewBackground"
         android:layout_width="match_parent"

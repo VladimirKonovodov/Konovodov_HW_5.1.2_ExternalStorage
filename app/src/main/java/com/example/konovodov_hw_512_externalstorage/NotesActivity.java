@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import androidx.appcompat.widget.Toolbar;
+
 
 public class NotesActivity extends AppCompatActivity {
     private EditText mInputNote;
